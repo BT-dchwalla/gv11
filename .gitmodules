@@ -6,4 +6,4 @@
 [submodule "ext/hr"]
 	path = ext/hr
 	url = git@github.com:OCA/hr.git
-	branch = 11.0
+	branch = 11
