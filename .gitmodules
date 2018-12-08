@@ -2,3 +2,8 @@
 	path = ext/BT-HR
 	url = git@github.com:brain-tec/BT-HR.git
 	branch = 11.0
+
+[submodule "ext/hr"]
+	path = ext/hr
+	url = git@github.com:OCA/hr.git
+	branch = 11.0
